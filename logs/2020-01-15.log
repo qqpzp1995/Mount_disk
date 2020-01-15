@@ -1,0 +1,519 @@
+
+2020-01-15 23:28:18-WARNING-[进程ID:11964][线程ID:3872,MainThread]--您输入的多任务数为1,不符合要求,请重新输入! 
+2020-01-15 23:28:22-INFO-[进程ID:11964][线程ID:3872,MainThread]--即将启动,多任务:2 
+2020-01-15 23:28:22-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="cfDefaultLogo"]',) 
+2020-01-15 23:28:22-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call open('https://auth.huaweicloud.com/',) 
+2020-01-15 23:28:22-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call open('https://auth.huaweicloud.com/',) 
+2020-01-15 23:28:30-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(3,) 
+2020-01-15 23:28:30-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(3,) 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--call login() ... 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="btn_submit"]',) 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="btn_submit"]', 'xpath') 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="subUserLogin"]',) 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="IAMAccountInputId"]/input',) 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="IAMAccountInputId"]/input', 'xpath') 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="IAMUsernameInputId"]/input',) 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="IAMUsernameInputId"]/input', 'xpath') 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="IAMPasswordInputId"]/input',) 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="IAMPasswordInputId"]/input', 'xpath') 
+2020-01-15 23:28:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--call login() ... 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="btn_submit"]',) 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="btn_submit"]', 'xpath') 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="subUserLogin"]',) 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="IAMAccountInputId"]/input',) 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="IAMAccountInputId"]/input', 'xpath') 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="IAMUsernameInputId"]/input',) 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="IAMUsernameInputId"]/input', 'xpath') 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="IAMPasswordInputId"]/input',) 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="IAMPasswordInputId"]/input', 'xpath') 
+2020-01-15 23:28:33-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:34-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call input('//*[@id="IAMAccountInputId"]/input', '输入真实账号') 
+2020-01-15 23:28:34-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call input('//*[@id="IAMUsernameInputId"]/input', '输入真实子账号') 
+2020-01-15 23:28:34-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call input('//*[@id="IAMPasswordInputId"]/input', '输入密码') 
+2020-01-15 23:28:34-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:34-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call input('//*[@id="IAMAccountInputId"]/input', '输入真实账号') 
+2020-01-15 23:28:34-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call input('//*[@id="IAMUsernameInputId"]/input', '输入真实子账号') 
+2020-01-15 23:28:34-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call input('//*[@id="IAMPasswordInputId"]/input', '输入密码') 
+2020-01-15 23:28:34-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:35-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="btn_submit"]',) 
+2020-01-15 23:28:35-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:28:35-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:28:35-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:35-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="btn_submit"]',) 
+2020-01-15 23:28:35-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:28:35-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:28:35-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:36-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:28:36-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:28:37-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:37-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:38-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:28:38-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:38-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:28:38-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:39-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:28:39-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:39-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:28:39-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:40-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:28:40-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:40-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:28:40-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:41-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:28:41-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:41-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:28:41-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:42-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:28:42-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:42-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:28:42-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:43-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:28:43-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:43-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:28:43-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:44-INFO-[进程ID:1548][线程ID:19472,MainThread]--call select_area() ... 
+2020-01-15 23:28:44-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]',) 
+2020-01-15 23:28:44-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]', 'xpath') 
+2020-01-15 23:28:44-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]',) 
+2020-01-15 23:28:44-INFO-[进程ID:26064][线程ID:18276,MainThread]--call select_area() ... 
+2020-01-15 23:28:44-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]',) 
+2020-01-15 23:28:44-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]', 'xpath') 
+2020-01-15 23:28:44-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]',) 
+2020-01-15 23:28:46-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]',) 
+2020-01-15 23:28:46-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]', 'xpath') 
+2020-01-15 23:28:46-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]',) 
+2020-01-15 23:28:46-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]', 'xpath') 
+2020-01-15 23:28:47-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:47-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:48-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]',) 
+2020-01-15 23:28:48-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:48-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]',) 
+2020-01-15 23:28:48-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:49-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="menu"]/div[1]/div[4]//span[text()="华南-广州"]',) 
+2020-01-15 23:28:49-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="menu"]/div[1]/div[4]//span[text()="华南-广州"]',) 
+2020-01-15 23:28:50-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(3,) 
+2020-01-15 23:28:50-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(3,) 
+2020-01-15 23:28:53-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//span[text()="跳过"]',) 
+2020-01-15 23:28:53-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="mianbao"]/div[1]/div[1]',) 
+2020-01-15 23:28:53-INFO-[进程ID:1548][线程ID:19472,MainThread]--call search_ecs_id() ... 
+2020-01-15 23:28:53-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_clearTag0"]',) 
+2020-01-15 23:28:53-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:28:53-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(3,) 
+2020-01-15 23:28:53-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//span[text()="跳过"]',) 
+2020-01-15 23:28:53-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="mianbao"]/div[1]/div[1]',) 
+2020-01-15 23:28:53-INFO-[进程ID:26064][线程ID:18276,MainThread]--call search_ecs_id() ... 
+2020-01-15 23:28:53-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_clearTag0"]',) 
+2020-01-15 23:28:53-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:28:53-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(3,) 
+2020-01-15 23:28:56-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:28:56-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_input"]', 'xpath') 
+2020-01-15 23:28:56-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:28:56-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:28:56-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_input"]', 'xpath') 
+2020-01-15 23:28:56-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:28:56-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:28:56-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:28:57-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecsListSearchbox_prop_id"]',) 
+2020-01-15 23:28:57-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:28:57-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call input('//*[@id="ecsListSearchbox_input"]', '061e659b-2d6c-4de0-8fc0-2f191a7f1fb0') 
+2020-01-15 23:28:57-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="ecsListSearchbox_prop_id"]',) 
+2020-01-15 23:28:57-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:28:57-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call input('//*[@id="ecsListSearchbox_input"]', '89ac20ee-6a8c-4bed-8928-a2bbf17c8891') 
+2020-01-15 23:28:58-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecsListSearchbox_search"]',) 
+2020-01-15 23:28:58-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(3,) 
+2020-01-15 23:28:58-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="ecsListSearchbox_search"]',) 
+2020-01-15 23:28:58-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(3,) 
+2020-01-15 23:29:01-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="061e659b-2d6c-4de0-8fc0-2f191a7f1fb0"]',) 
+2020-01-15 23:29:01-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//td[@tip-content="故障"]',) 
+2020-01-15 23:29:01-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="vmList"]//span[text()="061e659b-2d6c-4de0-8fc0-2f191a7f1fb0"]/../..//a[2]',) 
+2020-01-15 23:29:01-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(3,) 
+2020-01-15 23:29:01-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="89ac20ee-6a8c-4bed-8928-a2bbf17c8891"]',) 
+2020-01-15 23:29:01-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(3,) 
+2020-01-15 23:29:04-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="detailRigthContent"]//span[text()="未挂载云硬盘"]',) 
+2020-01-15 23:29:04-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="detailRigthContent"]//span[text()="挂载"]',) 
+2020-01-15 23:29:04-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="89ac20ee-6a8c-4bed-8928-a2bbf17c8891"]',) 
+2020-01-15 23:29:04-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(3,) 
+2020-01-15 23:29:05-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="ecs_detail_attach_disk_button"]/span/button/span',) 
+2020-01-15 23:29:05-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecs_detail_attach_disk_button"]/span/button/span', 'xpath') 
+2020-01-15 23:29:05-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:29:06-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecs_detail_attach_disk_button"]/span/button/span', 'xpath') 
+2020-01-15 23:29:06-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(2,) 
+2020-01-15 23:29:07-INFO-[进程ID:26064][线程ID:18276,MainThread]--call retry_condition() ... 
+2020-01-15 23:29:07-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call getAttribute('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]/span[2]', 'textContent') 
+2020-01-15 23:29:08-INFO-[进程ID:26064][线程ID:18276,MainThread]--当前ECS(id:89ac20ee-6a8c-4bed-8928-a2bbf17c8891) 不在本区域内,稍后将在其他区域重试... 
+2020-01-15 23:29:08-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="cfDefaultLogo"]',) 
+2020-01-15 23:29:08-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="mianbao"]/div[1]/div[1]',) 
+2020-01-15 23:29:08-INFO-[进程ID:26064][线程ID:18276,MainThread]--call search_ecs_id() ... 
+2020-01-15 23:29:08-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_clearTag0"]',) 
+2020-01-15 23:29:08-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecs_detail_attach_disk_button"]/span/button/span',) 
+2020-01-15 23:29:08-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="ecsListSearchbox_clearTag0"]',) 
+2020-01-15 23:29:08-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:29:08-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(3,) 
+2020-01-15 23:29:08-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="ecsAttachDiv"]//dl//div[@ng-bind="serverInfo.name"]',) 
+2020-01-15 23:29:08-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecsAttachDiv"]//dl//div[@ng-bind="serverInfo.name"]', 'xpath') 
+2020-01-15 23:29:08-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:29:09-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call getAttribute('//*[@id="ecsAttachDiv"]//dl//div[@ng-bind="serverInfo.name"]', 'textContent') 
+2020-01-15 23:29:09-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call input('//*[@id="searchBox.id"]/div[2]/input', 'EU52D3H52PG7-0068') 
+2020-01-15 23:29:09-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="searchBox.id"]/div[2]/div[2]',) 
+2020-01-15 23:29:09-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(3,) 
+2020-01-15 23:29:11-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:29:11-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_input"]', 'xpath') 
+2020-01-15 23:29:11-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:29:11-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:29:12-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="ecsListSearchbox_prop_id"]',) 
+2020-01-15 23:29:12-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:29:12-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call input('//*[@id="ecsListSearchbox_input"]', '00ff309d-3b85-4ce3-8feb-1de954230132') 
+2020-01-15 23:29:12-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call getElementCount('//*[@id="ecsAttachDiv"]//table/tbody//div[contains(text(),"EU52D3H52PG7-0068")]',) 
+2020-01-15 23:29:12-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecsAttachDiv"]//table/tbody/tr[1]/td/label',) 
+2020-01-15 23:29:12-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:29:13-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="ecsListSearchbox_search"]',) 
+2020-01-15 23:29:13-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(3,) 
+2020-01-15 23:29:13-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecsAttachDivMsg"]/div[3]/div[1]/span/button/span',) 
+2020-01-15 23:29:14-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitDisappear('//*[@id="ecsAttachDivMsg"]/div[3]/div[1]/span/button/span',) 
+2020-01-15 23:29:14-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecsAttachDivMsg"]/div[3]/div[1]/span/button/span', 'xpath') 
+2020-01-15 23:29:14-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:29:15-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecsAttachDivMsg"]/div[3]/div[1]/span/button/span', 'xpath') 
+2020-01-15 23:29:15-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:29:16-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecsAttachDivMsg"]/div[3]/div[1]/span/button/span', 'xpath') 
+2020-01-15 23:29:16-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:29:16-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="00ff309d-3b85-4ce3-8feb-1de954230132"]',) 
+2020-01-15 23:29:16-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//td[@tip-content="故障"]',) 
+2020-01-15 23:29:16-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="vmList"]//span[text()="00ff309d-3b85-4ce3-8feb-1de954230132"]/../..//a[2]',) 
+2020-01-15 23:29:16-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(3,) 
+2020-01-15 23:29:17-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecsAttachDivMsg"]/div[3]/div[1]/span/button/span', 'xpath') 
+2020-01-15 23:29:17-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecsAttachDivMsg"]/div[3]/div[1]/span/button/span', 'xpath') 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitDisappear('/html/body/div[19]',) 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('/html/body/div[19]', 'xpath') 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecs_detail_attach_disk_confirm_init_button"]/span/button/span[text()="确定"]',) 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(0.5,) 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecs_detail_attach_disk_confirm_init_button"]/span/button/span[text()="确定"]',) 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecs_detail_attach_disk_confirm_init_button"]/span/button/span[text()="确定"]',) 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--call ok_condition() ... 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--当前ECS(id:061e659b-2d6c-4de0-8fc0-2f191a7f1fb0) 磁盘挂载操作成功~ 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="cfDefaultLogo"]',) 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="mianbao"]/div[1]/div[1]',) 
+2020-01-15 23:29:18-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:29:19-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="mianbao"]/div[1]/div[1]',) 
+2020-01-15 23:29:19-INFO-[进程ID:1548][线程ID:19472,MainThread]--call search_ecs_id() ... 
+2020-01-15 23:29:19-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_clearTag0"]',) 
+2020-01-15 23:29:19-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecsListSearchbox_clearTag0"]',) 
+2020-01-15 23:29:19-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:29:19-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(3,) 
+2020-01-15 23:29:19-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="detailRigthContent"]//span[text()="未挂载云硬盘"]',) 
+2020-01-15 23:29:19-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="detailRigthContent"]//span[text()="挂载"]',) 
+2020-01-15 23:29:19-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="ecs_detail_attach_disk_button"]/span/button/span',) 
+2020-01-15 23:29:19-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="ecs_detail_attach_disk_button"]/span/button/span', 'xpath') 
+2020-01-15 23:29:19-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:29:20-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="ecs_detail_attach_disk_button"]/span/button/span', 'xpath') 
+2020-01-15 23:29:20-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(2,) 
+2020-01-15 23:29:22-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call waitAppear('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:29:22-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_input"]', 'xpath') 
+2020-01-15 23:29:22-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:29:22-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(1,) 
+2020-01-15 23:29:22-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="ecs_detail_attach_disk_button"]/span/button/span',) 
+2020-01-15 23:29:23-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call waitAppear('//*[@id="ecsAttachDiv"]//dl//div[@ng-bind="serverInfo.name"]',) 
+2020-01-15 23:29:23-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call isElementPresent('//*[@id="ecsAttachDiv"]//dl//div[@ng-bind="serverInfo.name"]', 'xpath') 
+2020-01-15 23:29:23-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(1,) 
+2020-01-15 23:29:23-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecsListSearchbox_prop_id"]',) 
+2020-01-15 23:29:23-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:29:23-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call input('//*[@id="ecsListSearchbox_input"]', '4bd45b27-6c42-49fa-aebe-4cee4c5dc45e') 
+2020-01-15 23:29:24-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call getAttribute('//*[@id="ecsAttachDiv"]//dl//div[@ng-bind="serverInfo.name"]', 'textContent') 
+2020-01-15 23:29:24-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call input('//*[@id="searchBox.id"]/div[2]/input', 'EU52D3H52PG9-0000') 
+2020-01-15 23:29:24-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="searchBox.id"]/div[2]/div[2]',) 
+2020-01-15 23:29:24-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call wait(3,) 
+2020-01-15 23:29:24-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call click('//*[@id="ecsListSearchbox_search"]',) 
+2020-01-15 23:29:24-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(3,) 
+2020-01-15 23:29:27-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call getElementCount('//*[@id="ecsAttachDiv"]//table/tbody//div[contains(text(),"EU52D3H52PG9-0000")]',) 
+2020-01-15 23:29:27-INFO-[进程ID:26064][线程ID:18276,MainThread]--call failed_condition() ... 
+2020-01-15 23:29:27-WARNING-[进程ID:26064][线程ID:18276,MainThread]--当前ECS(id:00ff309d-3b85-4ce3-8feb-1de954230132) 磁盘挂载操作失败! 
+2020-01-15 23:29:27-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call print_screen('00ff309d-3b85-4ce3-8feb-1de954230132',) 
+2020-01-15 23:29:27-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="4bd45b27-6c42-49fa-aebe-4cee4c5dc45e"]',) 
+2020-01-15 23:29:27-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(3,) 
+2020-01-15 23:29:28-INFO-[进程ID:26064][线程ID:18276,MainThread]--Call click('//*[@id="ecsAttachDivMsg"]//span[text()="取消"]',) 
+2020-01-15 23:29:30-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="4bd45b27-6c42-49fa-aebe-4cee4c5dc45e"]',) 
+2020-01-15 23:29:30-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call wait(3,) 
+2020-01-15 23:29:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--call retry_condition() ... 
+2020-01-15 23:29:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--Call getAttribute('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]/span[2]', 'textContent') 
+2020-01-15 23:29:33-INFO-[进程ID:1548][线程ID:19472,MainThread]--当前ECS(id:4bd45b27-6c42-49fa-aebe-4cee4c5dc45e) 不在本区域内,稍后将在其他区域重试... 
+2020-01-15 23:29:34-INFO-[进程ID:11964][线程ID:3872,MainThread]--('061e659b-2d6c-4de0-8fc0-2f191a7f1fb0', 1) 
+2020-01-15 23:29:34-INFO-[进程ID:11964][线程ID:3872,MainThread]--('89ac20ee-6a8c-4bed-8928-a2bbf17c8891', 0) 
+2020-01-15 23:29:34-INFO-[进程ID:11964][线程ID:3872,MainThread]--('00ff309d-3b85-4ce3-8feb-1de954230132', 2) 
+2020-01-15 23:29:34-INFO-[进程ID:11964][线程ID:3872,MainThread]--('4bd45b27-6c42-49fa-aebe-4cee4c5dc45e', 0) 
+2020-01-15 23:29:34-INFO-[进程ID:11964][线程ID:3872,MainThread]--call kill_chrome() ... 
+2020-01-15 23:29:34-INFO-[进程ID:11964][线程ID:3872,MainThread]--成功: 已终止进程 "chrome.exe"，其 PID 为 13948。
+成功: 已终止进程 "chrome.exe"，其 PID 为 16924。
+成功: 已终止进程 "chrome.exe"，其 PID 为 23064。
+成功: 已终止进程 "chrome.exe"，其 PID 为 13076。
+成功: 已终止进程 "chrome.exe"，其 PID 为 4796。
+成功: 已终止进程 "chrome.exe"，其 PID 为 20364。
+成功: 已终止进程 "chrome.exe"，其 PID 为 11100。
+成功: 已终止进程 "chrome.exe"，其 PID 为 23864。
+成功: 已终止进程 "chrome.exe"，其 PID 为 17276。
+成功: 已终止进程 "chrome.exe"，其 PID 为 8400。
+成功: 已终止进程 "chrome.exe"，其 PID 为 24820。
+成功: 已终止进程 "chrome.exe"，其 PID 为 21676。
+成功: 已终止进程 "chrome.exe"，其 PID 为 19160。
+成功: 已终止进程 "chrome.exe"，其 PID 为 18520。
+成功: 已终止进程 "chrome.exe"，其 PID 为 9120。
+成功: 已终止进程 "chrome.exe"，其 PID 为 20124。
+成功: 已终止进程 "chrome.exe"，其 PID 为 2172。
+成功: 已终止进程 "chrome.exe"，其 PID 为 25968。
+成功: 已终止进程 "chrome.exe"，其 PID 为 20796。
+成功: 已终止进程 "chrome.exe"，其 PID 为 2072。
+成功: 已终止进程 "chrome.exe"，其 PID 为 24892。
+成功: 已终止进程 "chrome.exe"，其 PID 为 19184。
+成功: 已终止进程 "chrome.exe"，其 PID 为 19892。
+ 
+2020-01-15 23:29:34-INFO-[进程ID:11964][线程ID:3872,MainThread]--成功: 已终止进程 "chromedriver.exe"，其 PID 为 24284。
+成功: 已终止进程 "chromedriver.exe"，其 PID 为 23636。
+ 
+2020-01-15 23:29:34-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="cfDefaultLogo"]',) 
+2020-01-15 23:29:34-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="cfDefaultLogo"]',) 
+2020-01-15 23:29:34-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call open('https://auth.huaweicloud.com/',) 
+2020-01-15 23:29:34-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call open('https://auth.huaweicloud.com/',) 
+2020-01-15 23:29:39-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(3,) 
+2020-01-15 23:29:39-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(3,) 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--call login() ... 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call waitAppear('//*[@id="btn_submit"]',) 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="btn_submit"]', 'xpath') 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call click('//*[@id="subUserLogin"]',) 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call waitAppear('//*[@id="IAMAccountInputId"]/input',) 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="IAMAccountInputId"]/input', 'xpath') 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call waitAppear('//*[@id="IAMUsernameInputId"]/input',) 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="IAMUsernameInputId"]/input', 'xpath') 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call waitAppear('//*[@id="IAMPasswordInputId"]/input',) 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="IAMPasswordInputId"]/input', 'xpath') 
+2020-01-15 23:29:42-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--call login() ... 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call waitAppear('//*[@id="btn_submit"]',) 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="btn_submit"]', 'xpath') 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call click('//*[@id="subUserLogin"]',) 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call waitAppear('//*[@id="IAMAccountInputId"]/input',) 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="IAMAccountInputId"]/input', 'xpath') 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call waitAppear('//*[@id="IAMUsernameInputId"]/input',) 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="IAMUsernameInputId"]/input', 'xpath') 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call waitAppear('//*[@id="IAMPasswordInputId"]/input',) 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="IAMPasswordInputId"]/input', 'xpath') 
+2020-01-15 23:29:42-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:43-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call input('//*[@id="IAMAccountInputId"]/input', '输入真实账号') 
+2020-01-15 23:29:43-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call input('//*[@id="IAMUsernameInputId"]/input', '输入真实子账号') 
+2020-01-15 23:29:43-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call input('//*[@id="IAMPasswordInputId"]/input', '输入密码') 
+2020-01-15 23:29:43-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call input('//*[@id="IAMAccountInputId"]/input', '输入真实账号') 
+2020-01-15 23:29:43-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:43-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call input('//*[@id="IAMUsernameInputId"]/input', '输入真实子账号') 
+2020-01-15 23:29:43-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call input('//*[@id="IAMPasswordInputId"]/input', '输入密码') 
+2020-01-15 23:29:43-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:44-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call click('//*[@id="btn_submit"]',) 
+2020-01-15 23:29:44-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call waitAppear('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:29:44-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:29:44-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:44-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call click('//*[@id="btn_submit"]',) 
+2020-01-15 23:29:44-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call waitAppear('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:29:44-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:29:44-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:45-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:29:45-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:29:46-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:46-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:47-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:29:47-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:47-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:29:47-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:48-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:29:48-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:48-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:29:48-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:49-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:29:49-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:49-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:29:49-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:50-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:29:50-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:50-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:29:50-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:51-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:29:51-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:51-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:29:51-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:52-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:29:52-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:52-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:29:52-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:53-INFO-[进程ID:15240][线程ID:17200,MainThread]--call select_area() ... 
+2020-01-15 23:29:53-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call waitAppear('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]',) 
+2020-01-15 23:29:53-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]', 'xpath') 
+2020-01-15 23:29:53-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call click('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]',) 
+2020-01-15 23:29:53-INFO-[进程ID:22232][线程ID:18688,MainThread]--call select_area() ... 
+2020-01-15 23:29:53-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call waitAppear('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]',) 
+2020-01-15 23:29:53-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]', 'xpath') 
+2020-01-15 23:29:53-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call click('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]',) 
+2020-01-15 23:29:55-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call waitAppear('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]',) 
+2020-01-15 23:29:55-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]', 'xpath') 
+2020-01-15 23:29:55-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call waitAppear('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]',) 
+2020-01-15 23:29:55-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]', 'xpath') 
+2020-01-15 23:29:56-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:56-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:57-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call click('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]',) 
+2020-01-15 23:29:57-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call click('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]',) 
+2020-01-15 23:29:57-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:29:57-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:29:58-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call click('//*[@id="menu"]/div[1]/div[4]//span[text()="华东-上海二"]',) 
+2020-01-15 23:29:58-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call click('//*[@id="menu"]/div[1]/div[4]//span[text()="华东-上海二"]',) 
+2020-01-15 23:29:59-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(3,) 
+2020-01-15 23:29:59-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(3,) 
+2020-01-15 23:30:02-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//span[text()="跳过"]',) 
+2020-01-15 23:30:02-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="mianbao"]/div[1]/div[1]',) 
+2020-01-15 23:30:02-INFO-[进程ID:15240][线程ID:17200,MainThread]--call search_ecs_id() ... 
+2020-01-15 23:30:02-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_clearTag0"]',) 
+2020-01-15 23:30:02-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:30:02-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(3,) 
+2020-01-15 23:30:02-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//span[text()="跳过"]',) 
+2020-01-15 23:30:02-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="mianbao"]/div[1]/div[1]',) 
+2020-01-15 23:30:02-INFO-[进程ID:22232][线程ID:18688,MainThread]--call search_ecs_id() ... 
+2020-01-15 23:30:02-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_clearTag0"]',) 
+2020-01-15 23:30:02-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:30:02-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(3,) 
+2020-01-15 23:30:05-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call waitAppear('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:30:05-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_input"]', 'xpath') 
+2020-01-15 23:30:05-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call click('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:30:05-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call waitAppear('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:30:05-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_input"]', 'xpath') 
+2020-01-15 23:30:05-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call click('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:30:05-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(1,) 
+2020-01-15 23:30:05-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(1,) 
+2020-01-15 23:30:06-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call click('//*[@id="ecsListSearchbox_prop_id"]',) 
+2020-01-15 23:30:06-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call click('//*[@id="ecsListSearchbox_prop_id"]',) 
+2020-01-15 23:30:06-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:30:06-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call input('//*[@id="ecsListSearchbox_input"]', '89ac20ee-6a8c-4bed-8928-a2bbf17c8891') 
+2020-01-15 23:30:06-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:30:06-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call input('//*[@id="ecsListSearchbox_input"]', '4bd45b27-6c42-49fa-aebe-4cee4c5dc45e') 
+2020-01-15 23:30:07-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call click('//*[@id="ecsListSearchbox_search"]',) 
+2020-01-15 23:30:07-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call click('//*[@id="ecsListSearchbox_search"]',) 
+2020-01-15 23:30:08-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(3,) 
+2020-01-15 23:30:08-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call wait(3,) 
+2020-01-15 23:30:11-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="89ac20ee-6a8c-4bed-8928-a2bbf17c8891"]',) 
+2020-01-15 23:30:11-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(3,) 
+2020-01-15 23:30:11-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="4bd45b27-6c42-49fa-aebe-4cee4c5dc45e"]',) 
+2020-01-15 23:30:11-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call isElementPresent('//td[@tip-content="故障"]',) 
+2020-01-15 23:30:11-INFO-[进程ID:22232][线程ID:18688,MainThread]--call faulty_condition() ... 
+2020-01-15 23:30:11-WARNING-[进程ID:22232][线程ID:18688,MainThread]--当前ECS(id:4bd45b27-6c42-49fa-aebe-4cee4c5dc45e) 处于异常状态! 
+2020-01-15 23:30:11-INFO-[进程ID:22232][线程ID:18688,MainThread]--Call print_screen('4bd45b27-6c42-49fa-aebe-4cee4c5dc45e',) 
+2020-01-15 23:30:14-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="89ac20ee-6a8c-4bed-8928-a2bbf17c8891"]',) 
+2020-01-15 23:30:14-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call wait(3,) 
+2020-01-15 23:30:17-INFO-[进程ID:15240][线程ID:17200,MainThread]--call retry_condition() ... 
+2020-01-15 23:30:17-INFO-[进程ID:15240][线程ID:17200,MainThread]--Call getAttribute('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]/span[2]', 'textContent') 
+2020-01-15 23:30:17-INFO-[进程ID:15240][线程ID:17200,MainThread]--当前ECS(id:89ac20ee-6a8c-4bed-8928-a2bbf17c8891) 不在本区域内,稍后将在其他区域重试... 
+2020-01-15 23:30:17-INFO-[进程ID:11964][线程ID:3872,MainThread]--call kill_chrome() ... 
+2020-01-15 23:30:17-INFO-[进程ID:11964][线程ID:3872,MainThread]--成功: 已终止进程 "chrome.exe"，其 PID 为 19640。
+成功: 已终止进程 "chrome.exe"，其 PID 为 24768。
+成功: 已终止进程 "chrome.exe"，其 PID 为 7772。
+成功: 已终止进程 "chrome.exe"，其 PID 为 16744。
+成功: 已终止进程 "chrome.exe"，其 PID 为 11888。
+成功: 已终止进程 "chrome.exe"，其 PID 为 26144。
+成功: 已终止进程 "chrome.exe"，其 PID 为 18408。
+成功: 已终止进程 "chrome.exe"，其 PID 为 20052。
+成功: 已终止进程 "chrome.exe"，其 PID 为 14264。
+成功: 已终止进程 "chrome.exe"，其 PID 为 20840。
+成功: 已终止进程 "chrome.exe"，其 PID 为 14456。
+成功: 已终止进程 "chrome.exe"，其 PID 为 24260。
+成功: 已终止进程 "chrome.exe"，其 PID 为 556。
+成功: 已终止进程 "chrome.exe"，其 PID 为 956。
+成功: 已终止进程 "chrome.exe"，其 PID 为 9652。
+成功: 已终止进程 "chrome.exe"，其 PID 为 25548。
+ 
+2020-01-15 23:30:17-INFO-[进程ID:11964][线程ID:3872,MainThread]--成功: 已终止进程 "chromedriver.exe"，其 PID 为 13488。
+成功: 已终止进程 "chromedriver.exe"，其 PID 为 24348。
+ 
+2020-01-15 23:30:17-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="cfDefaultLogo"]',) 
+2020-01-15 23:30:17-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call open('https://auth.huaweicloud.com/',) 
+2020-01-15 23:30:22-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(3,) 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--call login() ... 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call waitAppear('//*[@id="btn_submit"]',) 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="btn_submit"]', 'xpath') 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call click('//*[@id="subUserLogin"]',) 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call waitAppear('//*[@id="IAMAccountInputId"]/input',) 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="IAMAccountInputId"]/input', 'xpath') 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call waitAppear('//*[@id="IAMUsernameInputId"]/input',) 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="IAMUsernameInputId"]/input', 'xpath') 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call waitAppear('//*[@id="IAMPasswordInputId"]/input',) 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="IAMPasswordInputId"]/input', 'xpath') 
+2020-01-15 23:30:25-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:26-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call input('//*[@id="IAMAccountInputId"]/input', '输入真实账号') 
+2020-01-15 23:30:26-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call input('//*[@id="IAMUsernameInputId"]/input', '输入真实子账号') 
+2020-01-15 23:30:26-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call input('//*[@id="IAMPasswordInputId"]/input', '输入密码') 
+2020-01-15 23:30:26-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:27-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call click('//*[@id="btn_submit"]',) 
+2020-01-15 23:30:27-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call waitAppear('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:30:27-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:30:27-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:28-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:30:29-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:30-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:30:30-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:31-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:30:31-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:32-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span', 'xpath') 
+2020-01-15 23:30:32-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:33-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:30:33-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:34-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:30:34-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:35-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="model.nextBind"]/div/span',) 
+2020-01-15 23:30:35-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:36-INFO-[进程ID:18440][线程ID:1008,MainThread]--call select_area() ... 
+2020-01-15 23:30:36-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call waitAppear('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]',) 
+2020-01-15 23:30:36-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]', 'xpath') 
+2020-01-15 23:30:36-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call click('//*[@id="myResources"]//div[text()="弹性云服务器 ECS"]',) 
+2020-01-15 23:30:39-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call waitAppear('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]',) 
+2020-01-15 23:30:39-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]', 'xpath') 
+2020-01-15 23:30:39-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:40-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call click('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]',) 
+2020-01-15 23:30:41-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:42-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call click('//*[@id="menu"]/div[1]/div[4]//span[text()="华北-北京一"]',) 
+2020-01-15 23:30:42-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(3,) 
+2020-01-15 23:30:45-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//span[text()="跳过"]',) 
+2020-01-15 23:30:45-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="mianbao"]/div[1]/div[1]',) 
+2020-01-15 23:30:45-INFO-[进程ID:18440][线程ID:1008,MainThread]--call search_ecs_id() ... 
+2020-01-15 23:30:45-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_clearTag0"]',) 
+2020-01-15 23:30:45-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:30:45-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(3,) 
+2020-01-15 23:30:48-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call waitAppear('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:30:48-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//*[@id="ecsListSearchbox_input"]', 'xpath') 
+2020-01-15 23:30:48-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call click('//*[@id="ecsListSearchbox_input"]',) 
+2020-01-15 23:30:48-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(1,) 
+2020-01-15 23:30:49-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call click('//*[@id="ecsListSearchbox_prop_id"]',) 
+2020-01-15 23:30:49-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//span[text()="云服务器ID:"]',) 
+2020-01-15 23:30:49-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call input('//*[@id="ecsListSearchbox_input"]', '89ac20ee-6a8c-4bed-8928-a2bbf17c8891') 
+2020-01-15 23:30:50-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call click('//*[@id="ecsListSearchbox_search"]',) 
+2020-01-15 23:30:50-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(3,) 
+2020-01-15 23:30:53-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="89ac20ee-6a8c-4bed-8928-a2bbf17c8891"]',) 
+2020-01-15 23:30:53-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(3,) 
+2020-01-15 23:30:56-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call isElementPresent('//div[@class="nowrap_hidden"]/span[text()="89ac20ee-6a8c-4bed-8928-a2bbf17c8891"]',) 
+2020-01-15 23:30:56-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call wait(3,) 
+2020-01-15 23:30:59-INFO-[进程ID:18440][线程ID:1008,MainThread]--call retry_condition() ... 
+2020-01-15 23:30:59-INFO-[进程ID:18440][线程ID:1008,MainThread]--Call getAttribute('//*[@id="menu"]/div[1]/div[4]/cf-region/div/a[1]/span[2]', 'textContent') 
+2020-01-15 23:30:59-INFO-[进程ID:18440][线程ID:1008,MainThread]--无法在管理区域查询到当前ECS(id:89ac20ee-6a8c-4bed-8928-a2bbf17c8891),请注意! 
+2020-01-15 23:30:59-INFO-[进程ID:11964][线程ID:3872,MainThread]--call kill_chrome() ... 
+2020-01-15 23:30:59-INFO-[进程ID:11964][线程ID:3872,MainThread]--成功: 已终止进程 "chrome.exe"，其 PID 为 24036。
+成功: 已终止进程 "chrome.exe"，其 PID 为 26176。
+成功: 已终止进程 "chrome.exe"，其 PID 为 6392。
+成功: 已终止进程 "chrome.exe"，其 PID 为 14448。
+成功: 已终止进程 "chrome.exe"，其 PID 为 26044。
+成功: 已终止进程 "chrome.exe"，其 PID 为 20820。
+成功: 已终止进程 "chrome.exe"，其 PID 为 26148。
+成功: 已终止进程 "chrome.exe"，其 PID 为 13052。
+ 
+2020-01-15 23:30:59-INFO-[进程ID:11964][线程ID:3872,MainThread]--成功: 已终止进程 "chromedriver.exe"，其 PID 为 24476。
+ 
+2020-01-15 23:30:59-INFO-[进程ID:11964][线程ID:3872,MainThread]--
+***************操作完成,情况如下: ***************
+共4个ecs id,耗时:157.57s
+多任务:2
+操作成功的(1个):['061e659b-2d6c-4de0-8fc0-2f191a7f1fb0']
+不在服务区的(1个):['89ac20ee-6a8c-4bed-8928-a2bbf17c8891']
+操作失败的(1个):['00ff309d-3b85-4ce3-8feb-1de954230132']
+网络问题的(0个):[]
+故障的ECS(1个):['4bd45b27-6c42-49fa-aebe-4cee4c5dc45e']
+************************************************ 
